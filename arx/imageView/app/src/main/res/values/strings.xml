@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="exit">Выход</string>
+    <string name="text_hello_TV">Вас приветствует альбом любимых фотографий!</string>
+    <string name="text_start_BTN">Начать просмотр</string>
+    <string name="text_finish_TV">Спасибо за просмотр! До свидания</string>
+    <string name="text_back_BTN">Предыдущее фото</string>
+    <string name="text_next_BTN">Следующее фото</string>
+</resources>
